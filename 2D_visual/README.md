@@ -1,3 +1,0 @@
-﻿# projeto_2D
-
- projeto escolar - parte visual
